@@ -2,9 +2,8 @@
 
 💻 Tecnologias que estudo:  
 
-![HTML](https://img.icons8.com/color/48/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/css3.png)  
- ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) !
-https://img.icons8.com/color/48/html-5--v1.png
+![HTML](https://img.icons8.com/color/48/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/css3.png)  ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
+ 
 
 📚 Estudando Desenvolvimento Full Stack  
 🚀 Buscando evoluir como dev todos os dias!  
