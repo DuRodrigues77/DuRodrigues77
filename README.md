@@ -1,4 +1,4 @@
-## Olá! Eu sou o Du 👋
+## Olá! Eu sou o DuRodrigues 🔰
 
 💻 Tecnologias que estudo:  
 
