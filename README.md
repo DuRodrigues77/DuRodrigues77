@@ -26,3 +26,8 @@
 
 <a href="https://www.linkedin.com/in/durodriguesdev77/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/du.rodrigues7?igsh=eWV1ODZkOGl6dnh6&utm_source=qr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+<a href="https://www.facebook.com/profile.php?id=61568350221514&sk=about" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/facebook.png" alt="FaceBook"/></a>
+
+
+
+
