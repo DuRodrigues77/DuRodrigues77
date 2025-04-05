@@ -26,6 +26,5 @@
 
 ### 📲 Contato:
 
-[[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/durodriguesdev77/)
-[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/du.rodrigues7?igsh=eWV1ODZkOGl6dnh6&utm_source=qr)
+[[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/durodriguesdev77/) [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/du.rodrigues7?igsh=eWV1ODZkOGl6dnh6&utm_source=qr)
 
