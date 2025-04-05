@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Du Rodrigues 🔰
 
-📚Gosto muito de tecnologia e programação.  
-🚀Tô sempre aprendendo, praticando e buscando evoluir como dev.  
-🎯Quero crescer nessa área, conseguir minha primeira oportunidade e transformar minha vida com isso.
+📚 Gosto muito de tecnologia e programação.  
+🚀 Tô sempre aprendendo, praticando e buscando evoluir como dev.  
+🎯 Quero crescer nessa área, conseguir minha primeira oportunidade e transformar minha vida com isso.
 💻 Tecnologias que estudo:  
 
 ![HTML](https://img.icons8.com/color/48/html-5--v1.png)
