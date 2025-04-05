@@ -1,14 +1,14 @@
 ## Olá! Eu sou o Du Rodrigues 🔰
 
+📚Gosto muito de tecnologia e programação.  
+🚀Tô sempre aprendendo, praticando e buscando evoluir como dev.  
+🎯Quero crescer nessa área, conseguir minha primeira oportunidade e transformar minha vida com isso.
 💻 Tecnologias que estudo:  
 
 ![HTML](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
 
-📚 Estudando Desenvolvimento Web  
-🚀 Buscando evoluir como dev todos os dias!  
-🎯 Meta: Me tornar um programador e mudar de vida 
 
 ---
 
