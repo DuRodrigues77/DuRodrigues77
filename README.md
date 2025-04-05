@@ -31,5 +31,3 @@
 </a><a href="https://www.instagram.com/du.rodrigues7?igsh=eWV1ODZkOGl6dnh6&utm_source=qr"target="_blank"rel="noopener noreferrer">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png"alt="Instagram"/>
 </a>
-
-
