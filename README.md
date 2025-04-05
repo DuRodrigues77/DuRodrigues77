@@ -15,9 +15,9 @@
 ### 🧠 Estatísticas do GitHub
 
 
-![Du's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuRodrigues77&show_icons=true&theme=tokyonight)
+![Du's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuRodrigues77&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuRodrigues77&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuRodrigues77&layout=compact&theme=tokyonight)
+
 
 
 ---
