@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Du Rodrigues 🔰
 
 🧠 Apaixonado por tecnologia e programação.  
-🚀 Sempre aprendendo, praticando e buscando evoluir como dev.  
+🚀 Sempre aprendendo, praticando e buscando evoluir como dev 
 🎯 Em busca da primeira oportunidade pra transformar minha vida com código.
 
 ---
